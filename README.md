@@ -19,3 +19,5 @@ Features:
 7.Error Reporting and Question Regeneration: If the user detects any issues with the generated questions, they can report the problem and request a rewrite of one or more questions.
 
 8.Real-time Interaction: The interface is built with Streamlit, providing a smooth and intuitive experience for users.
+
+You can view the source code for the test generator logic [here](https://github.com/LitaAna/Test-Generator/blob/main/Tests%20Generator.py)
